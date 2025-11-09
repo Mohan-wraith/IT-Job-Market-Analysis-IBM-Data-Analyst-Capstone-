@@ -52,6 +52,4 @@ The analysis provided several key insights into the IT job market:
 * **Top 5 In-Demand Databases:** MySQL, PostgreSQL, Microsoft SQL Server, SQLite, and MongoDB.
 * **Future Language Trends:** JavaScript and Python remain top desired languages, with high interest in TypeScript.
 * **Future Database Trends:** PostgreSQL and MongoDB show the most growth in developer interest.
-* **Demographics:** The field is predominantly male (93.7%), with a large concentration of developers in the 25-35 age range.
-
-*(The full, interactive dashboard can be seen in the `6-Dashboard...pdf` file.)*
+* **Demographics:** The field is predominantly male (93.7%), with a large concentration of developers in the 25-35 age range
